@@ -29,6 +29,12 @@ I work extensively with **LLMs, RAG pipelines, vector databases, and modern Pyth
 - **RAG Pipelines**
 - **LangChain**
 - **LlamaIndex**
+  
+### 🔹 MCP (Model Context Protocol)
+- MCP Server Setup
+- MCP Client Integration
+- Database MCP (PostgreSQL)
+- Building MCP-based Agents
 
 ### 🔹 Frontend
 - **HTML**

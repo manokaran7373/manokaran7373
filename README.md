@@ -1,65 +1,12 @@
 <div align="center">
 
-<!-- Animated Heading SVG -->
-<svg width="100%" height="120" viewBox="0 0 900 120" xmlns="http://www.w3.org/2000/svg">
-
-  <defs>
-    <!-- Animated Gradient -->
-    <linearGradient id="grad">
-      <stop offset="0%" stop-color="#4FD1C5">
-        <animate attributeName="offset" values="0;1;0" dur="6s" repeatCount="indefinite" />
-      </stop>
-      <stop offset="50%" stop-color="#7F5AF0">
-        <animate attributeName="offset" values="0.2;0.8;0.2" dur="6s" repeatCount="indefinite" />
-      </stop>
-      <stop offset="100%" stop-color="#FF6B6B">
-        <animate attributeName="offset" values="1;0;1" dur="6s" repeatCount="indefinite" />
-      </stop>
-    </linearGradient>
-
-    <!-- Glow -->
-    <filter id="glow">
-      <feGaussianBlur stdDeviation="4" result="blur" />
-      <feMerge>
-        <feMergeNode in="blur"/>
-        <feMergeNode in="SourceGraphic"/>
-      </feMerge>
-    </filter>
-  </defs>
-
-  <!-- Glow Text -->
-  <text x="50%" y="60" text-anchor="middle"
-        font-size="32"
-        font-weight="700"
-        font-family="Inter, Arial, sans-serif"
-        fill="url(#grad)"
-        filter="url(#glow)"
-        opacity="0.6">
-    🐍 Python Developer | ⚙️ Backend Engineer | 🤖 LLM/RAG Enthusiast
-    <animateTransform attributeName="transform"
-                      type="translate"
-                      values="0 0; 0 4; 0 0"
-                      dur="3s"
-                      repeatCount="indefinite"/>
-  </text>
-
-  <!-- Main Text -->
-  <text x="50%" y="58" text-anchor="middle"
-        font-size="32"
-        font-weight="800"
-        font-family="Inter, Arial, sans-serif"
-        fill="url(#grad)">
-    🐍 Python Developer | ⚙️ Backend Engineer | 🤖 LLM/RAG Enthusiast
-    <animateTransform attributeName="transform"
-                      type="translate"
-                      values="0 0; 0 -4; 0 0"
-                      dur="3s"
-                      repeatCount="indefinite"/>
-  </text>
-
-</svg>
+<img 
+  src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00D4FF&center=true&vCenter=true&width=900&lines=🐍+Python+Developer;⚙️+Backend+Engineer;🤖+LLM%2FRAG+Enthusiast" 
+  alt="Typing SVG" 
+/>
 
 </div>
+
 
 ---
 

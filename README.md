@@ -56,6 +56,10 @@ I work with **LLMs, RAG pipelines, vector databases, API frameworks, and cloud-r
 - CRUD Operations  
 - Authentication & Authorization  
 
+### 🐳 DevOps & Containerization
+- Docker
+- Docker Compose
+
 ### 🎨 **Frontend**
 - HTML  
 - CSS  
